@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <div style={styles.page}>
       <div style={styles.container}>
-        {/* Header / Hero */}
         <div
           style={styles.header}
           onMouseEnter={(e) => {
@@ -41,8 +40,6 @@ export default function Home() {
             <Card title="Other Pets" icon="🐾" desc="Other animals" onClick={() => navigate("/adoption/other")} />
           </div>
         </section>
-
-        {/* Health */}
         <section style={styles.section}>
           <h2 style={styles.sectionTitle}>Health</h2>
           <div style={styles.grid}>
@@ -61,7 +58,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Community */}
         <section style={styles.section}>
           <h2 style={styles.sectionTitle}>Community</h2>
           <div style={styles.grid}>
@@ -74,7 +70,6 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Lost & Found */}
         <section style={styles.section}>
           <h2 style={styles.sectionTitle}>Lost & Found</h2>
           <div style={styles.grid}>
