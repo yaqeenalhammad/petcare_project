@@ -1,0 +1,77 @@
+import dog1 from "../images/Max.avif";
+import dog2 from "../images/luna.jpg";
+import cat1 from "../images/mimi.avif";
+import cat2 from "../images/oreo.avif";
+import bird1 from "../images/kiwi.avif";
+import rabbit1 from "../images/lily.avif";
+
+
+export const pets = [
+  {
+    id: "D-101",
+    type: "dogs",
+    name: "Max",
+    ageMonths: 18,
+    gender: "Male",
+    city: "Amman",
+    vaccinated: true,
+    description: "Friendly, energetic, good with kids.",
+    image: dog1,
+  },
+  {
+    id: "D-102",
+    type: "dogs",
+    name: "Luna",
+    ageMonths: 7,
+    gender: "Female",
+    city: "Zarqa",
+    vaccinated: false,
+    description: "Calm, loves walks, learning commands.",
+    image: dog2,
+  },
+  {
+    id: "C-201",
+    type: "cats",
+    name: "Mimi",
+    ageMonths: 4,
+    gender: "Female",
+    city: "Irbid",
+    vaccinated: true,
+    description: "Playful indoor cat, loves cuddles.",
+    image: cat1,
+  },
+  {
+    id: "C-202",
+    type: "cats",
+    name: "Oreo",
+    ageMonths: 8,
+    gender: "Male",
+    city: "Amman",
+    vaccinated: true,
+    description: "Curious, active, great appetite.",
+    image: cat2,
+  },
+  {
+    id: "B-301",
+    type: "birds",
+    name: "Kiwi",
+    ageMonths: 16,
+    gender: "Male",
+    city: "Salt",
+    vaccinated: false,
+    description: "Small parakeet, very social.",
+    image: bird1,
+  },
+  {
+  id: "R-401",
+  type: "rabbits",
+  name: "Lily",
+  ageMonths: 9,
+  gender: "Female",
+  city: "Amman",
+  vaccinated: true,
+  description: "Cute bunny, calm and friendly, loves carrots.",
+  image: rabbit1,
+},
+
+];
