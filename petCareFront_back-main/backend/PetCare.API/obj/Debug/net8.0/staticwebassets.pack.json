@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\cat.jpg",
+      "PackagePath": "staticwebassets\\images\\cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\cutecat.jpg",
+      "PackagePath": "staticwebassets\\images\\cutecat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\cutedog.jpg",
+      "PackagePath": "staticwebassets\\images\\cutedog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\dog.jpg",
+      "PackagePath": "staticwebassets\\images\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\kiwi.jpg",
+      "PackagePath": "staticwebassets\\images\\kiwi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\images\\rabit.jpg",
+      "PackagePath": "staticwebassets\\images\\rabit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad\\Desktop\\FrontandBack\\FrontandBack\\backend\\PetCare.API\\wwwroot\\uploads\\lostpets\\613cb3cda5224819b695efdcac323393.jpg",
+      "PackagePath": "staticwebassets\\uploads\\lostpets\\613cb3cda5224819b695efdcac323393.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetCare.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PetCare.API.props",
+      "PackagePath": "build\\PetCare.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PetCare.API.props",
+      "PackagePath": "buildMultiTargeting\\PetCare.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PetCare.API.props",
+      "PackagePath": "buildTransitive\\PetCare.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
